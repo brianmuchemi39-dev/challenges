@@ -59,8 +59,8 @@ for (let i = 0; i < marks.length; i++) {
 let average = (totalMarks / validCount).toFixed(1);
 
 console.log("--------------------");
-console.log(`Valid marks: ${validCount}`);
-console.log(`Passed: ${passCount}`);
-console.log(`Failed: ${failCount}`);
-console.log(`Average: ${average}`);
-console.log(`Highest: ${highestMark} (Student ${highestStudent})`);
+console.log("Valid marks: ${validCount}");
+console.log("Passed: ${passCount}");
+console.log("Failed: ${failCount}");
+console.log("Average: ${average}`");
+console.log("Highest: ${highestMark} (Student ${highestStudent})");
