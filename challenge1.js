@@ -1,5 +1,5 @@
 
-/*const limit = 30;
+const limit = 30;
 
 for (let i = 1; i <= limit; i++) {
 
@@ -13,4 +13,4 @@ for (let i = 1; i <= limit; i++) {
   } else {
     console.log(i);
   }
-}*/
+}
